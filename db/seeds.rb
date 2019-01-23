@@ -6,12 +6,12 @@
 #   movies = Movie.create([{ name: 'Star Wars' }, { name: 'Lord of the Rings' }])
 #   Character.create(name: 'Luke', movie: movies.first)
 
-Ingredient.create(name: 'top bun', image_url: '../frontend/images/top_bun.png')
-Ingredient.create(name: 'bottom bun', image_url: '../frontend/images/bottom_bun.png')
-Ingredient.create(name: 'burger patty', image_url: '../frontend/images/burger_patty.png')
-Ingredient.create(name: 'cheese', image_url: '../frontend/images/cheese.png')
-Ingredient.create(name: 'lettuce', image_url: '../frontend/images/lettuce.png')
-Ingredient.create(name: 'tomatoes', image_url: '../frontend/images/tomatoes.png')
+Ingredient.create(name: 'top bun', image_url: 'images/top_bun.png')
+Ingredient.create(name: 'bottom bun', image_url: 'images/bottom_bun.png')
+Ingredient.create(name: 'burger patty', image_url: 'images/burger_patty.png')
+Ingredient.create(name: 'cheese', image_url: 'images/cheese.png')
+Ingredient.create(name: 'lettuce', image_url: 'images/lettuce.png')
+Ingredient.create(name: 'tomatoes', image_url: 'images/tomatoes.png')
 
 Burger.create(name: 'hamburger', owner_name: 'Anuj')
 Burger.create(name: 'cheeseburger', owner_name: 'Vlad')
