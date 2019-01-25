@@ -16,6 +16,8 @@ Ingredient.create(name: 'Pickles', image_url: 'images/pickles.png')
 Ingredient.create(name: 'Bacon', image_url: 'images/bacon.png')
 Ingredient.create(name: 'Fried Egg', image_url: 'images/fried_egg.png')
 Ingredient.create(name: 'Onions', image_url: 'images/onions.png')
+Ingredient.create(name: 'Ketchup', image_url: 'images/ketchup.png')
+Ingredient.create(name: 'Mayo', image_url: 'images/mayo.png')
 
 # Burger.create(name: 'hamburger', owner_name: 'Anuj')
 # Burger.create(name: 'cheeseburger', owner_name: 'Vlad')
