@@ -1,24 +1,5 @@
-# README
+# Burger Maker
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+A peer-collaborated, single-page application that mimics interactive menus by allowing users to browse and create personalized burgers. The frontend was built with JavaScript and stylized with Bootstrap as well as custom CSS. The backend API was built using Ruby on Rails, with data persisting to a PostgreSQL database.
 
-Things you may want to cover:
-
-* Ruby version
-
-* System dependencies
-
-* Configuration
-
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
+Frontend Repo: https://github.com/rykyou/WineMate-frontend
